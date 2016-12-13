@@ -10,5 +10,8 @@ Ketentuan
 6. Judul dibuat jelas dan menarik (dalam bahasa inggris lebih diutamakan)
 7. Dilarang plagiasi
 
+Tutorial Markdown : [Link](http://commonmark.org/help/)
+
+
  
 
