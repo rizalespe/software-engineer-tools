@@ -1,0 +1,82 @@
+# KANBANCHI: The Perfect Project Management Tool
+*Oleh: ANDRA BAYU FEBRIANT / 155150407111060 / DPSI-P*
+## Deskripsi
+
+<img src="https://pbs.twimg.com/profile_images/428533404741545984/b34ZocNo_200x200.png" width="200" height="200" />
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Kanbanchi, Ltd](http://www.kanbanchi.com), adalah perusahaan perangkat lunak berbasis di Dartford, UK. Didirikan pada Oktober 2013 oleh pengusaha dan teknolog **Vladimir Yakimenko**. Dia juga seorang  CEO di **Magic Web Solutions**, pengembang perangkat lunak berbasis web. Kanbanchi dikerjakan oleh kumpulan konsultan dan account manager yang telah bekerja sama dengan pengembang di fasilitas teknis mereka sendiri di Rusia untuk membantu pelanggan mendapatkan *user experience* terbaik.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kanbanchi adalah perangkat lunak proyek manajemen perusahaan level enterprise atau manajemen tugas dengan pengaplikasian kanban board beserta kolaborasi tim secara *real time*. Hal ini memungkinkan Anda untuk mengelola proyek Anda secara visual: *project board* dengan daftar dan visualisasi alur kerja dari semua tugas dan kegiatan.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kanbanchi adalah satu-satunya kanban board yang benar-benar terintegrasi dengan Google Apps dan host di platform Google Cloud. Anda dapat memanipulasi board Anda sebagai file di Google Drive: yaitu mengurutkan pada folder, mengubah hak akses dll. Jika Anda menggunakan Google Apps for Work, Anda dapat mengundang Kanbanchi untuk semua pengguna dari organisasi Anda dengan Google Apps Admin Console.
+
+
+## Fitur
+
+- **Gantt Chart:** Mengkonversi Dashboard Kanbanchi anda ke Gantt Chart dalam satu kali klik. Lihat bagaimana semua card akan saling berhubungan dalam satu waktu, dan bisa melihat jadwal untuk proyek perencanaan secara visual dengan tim anda.
+- **Time Tracker:** Melacak waktu anda secara tepat dengan Kanbanchi. Memonitor kemajuan tim Anda dengan card di tab Timing, dimana data waktu untuk semua pengguna akan dicatat.
+- **Branding:** Sesuaikan tampilan Kanbanchi dengan memberikan logo perusahaan anda sekaligus backgroundnya.
+- **Tutorial:**  Untuk memberikan pembelajaran akses yang mudah bagi pengguna, setelah pengguna mendaftar, mereka diberikan tutorial secara cepat sehingga siap untuk menggunakannya dalam beberapa menit. Sangat mudah untuk digunakan dengan antarmuka drag and drop sederhana.
+- **Collaboration ready:** Kolaborator dapat meninggalkan komentar untuk rekan-rekan mereka. Karena mereka bekerja pada card atau task, percakapan atau pengeditan yang terjadi, bisa direkam sehingga memudahkan perujukan. Tim anggota bisa mendapatkan pemberitahuan e-mail ketika board telah diperbarui atau diedit. Pengguna dapat mengatur card dengan pemberian tag dan warna, sehingga mudah untuk mencari dan menyaring (filtering).
+- **Google Drive:** Kanbanchi memiliki integrasi dengan Google Apps khususnya Google Drive sehingga pengguna dapat melampirkan file dari Google Drive. Pada beberapa apps Google, bisa menambah tingkat produktivitas dengan mengelola proyek, tugas, timesheets, biaya, dan dokumen. 
+- **Add-on berbayar:** Addon berbayar ini memungkinkan pengguna untuk mengekspor ke Google Sheets. Fitur berbayar lainnya mencakup hal-hal seperti mengkonversi dashboard menjadi grafik Gantt Chart, melihat card dalam tampilan list, melacak waktu card dengan timer, integrasi email, dashboard backup, dll.
+<br>Beberapa fitur lain yang tidak kalah petingnya adalah:
+-	**Drag & drop** card antara board.
+-	**Pelacakan Issue.**
+-	Tablet dan **akses mobile.**
+-	**Manajemen tugas.**
+-	Bekerja dengan **beberapa card sekaligus.**
+
+
+## Kelebihan
+
+-	**Sistem dashboard sederhana** untuk memvisualisasikan alur kerja Anda.
+-	Sangat disesuaikan untuk kebutuhan Anda.
+-	**Menambah dan menghapus anggota tim secara mudah** untuk menyediakan akses proyek yang lebih tepat.
+-	**Menggunakan antarmuka Google** dan segala fiturnya ketika bekerja dengan board.
+-	Kanbanchi dapat digunakan untuk kolaborasi proyek sesuai dengan **konsep dan paradigma Kanban.**
+-	**Project Board dengan daftar dan card** digunakan untuk memvisualisasikan alur kerja dari semua kegiatan dan tugas penting. Card biasanya mengandung progress dari satu daftar ke daftar yang lain, dan kumpulan daftar tersebut mewakili tahapan alur kerja.
+-	Kanbanchi benar-benar **terintegrasi dengan Google Apps** dan host di platform Google Cloud.
+
+
+## Kekurangan
+
+- **Segi tampilan kalender** card yang terasa kurang.
+- **Tidak ada integrasi API** yang didukung.
+- **Harga baru** masih terbilang **tinggi** namun minim fitur.
+- **Jumlah label** yang tersedia masih **terbatas.**
+- Tata letak skala **kurang bagus** (terlalu besar) **pada tampilan ponsel.**
+- **Sulit dalam mengelola waktu** yang sudah dipakai sebagai waktu estimasi pada setiap card.
+
+
+## User
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://1pw8z314201u11lztq1ulowz.wpengine.netdna-cdn.com/wp-content/themes/kanbanchi/img/user5.png" width="100" height="100" />
+-	**User Produktif:** Kanbanchi bisa menjaga semua rencana dan task secara terorganisir.
+&nbsp;<img src="http://1pw8z314201u11lztq1ulowz.wpengine.netdna-cdn.com/wp-content/themes/kanbanchi/img/user9.png" width="100" height="100" />
+-	**Tim Startup:** Ketika startup Anda sedang mengalami pertumbuhan yang cepat, maka Anda perlu alat seperti Kanbanchi untuk mengelola proyek Anda. Tanpa alat seperti ini, anda akan sulit untuk menjaga pertumbuhan tersebut.
+&nbsp;<img src="http://1pw8z314201u11lztq1ulowz.wpengine.netdna-cdn.com/wp-content/themes/kanbanchi/img/user2.png" width="100" height="100" />
+-	**Kanban dan Praktisi Agile:** Misalnya anda membangun aplikasi web untuk startups dan perusahaan anda sendiri. Sebagai seorang pengembang atau praktisi Agile, komitmen dengan Kanbanchi memberi anda semua yang anda butuhkan dengan konsep dan paradigma kanban untuk menjaga hal-hal berlangsung secara sekejap mata dan terorganisir.<br>
+&nbsp;<img src="http://1pw8z314201u11lztq1ulowz.wpengine.netdna-cdn.com/wp-content/themes/kanbanchi/img/user3.png" width="100" height="100" />
+-	**Manajer Proyek:** Mayoritas waktu seperti meeting saat ini dikerjakan secara virtual. Daripada harus menghabiskan sepanjang hari secara formal, anda perlu alat seperti Kanbanchi yang bisa mengumpulkan staff dimanapun kapanpun.
+&nbsp;<img src="http://1pw8z314201u11lztq1ulowz.wpengine.netdna-cdn.com/wp-content/themes/kanbanchi/img/user4.png" width="100" height="100" />
+-	**Guru dan Mahasiswa:** Selain menggunakan Kanbanchi sebagai jadwal dan perencanaan kursus, anda bisa menggunakannya untuk semua pembelajaran berbasis proyek. Dan sebagai mahasiswa, sangat penting untuk membiasakan diri melakukan pengerjaan proyek dengan bantuan alat seperti Kanbanchi yang bisa memudahkan organisasi tugas secara kelompok sehingga tidak melewati *deadline*.
+
+
+## First Impression
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Berikut ini beberapa pengoperasian dasar dan alasan mengapa anda akan jatuh cinta dengan Kanbanchi begitu cepat:
+**1.**  Setelah Anda mendaftar, Anda akan diberikan tutorial singkat tentang cara untuk mulai menggunakan Kanbanchi dan kemudian anda sudah lancar mengoperasikannya.<br>
+![](http://yourmarketingcoachonline.com/wp-content/uploads/2016/05/Dashboard.jpg)
+**2.** Tata letak visual menarik. Anda akan dapat lay out beserta "card" yang mirip dengan Trello. Anda juga akan mendapat kode warna, tag, dan meng-upload gambar ke card anda. Fitur drag dan drop memungkinkan anda untuk memindahkan card dari satu daftar ke daftar berikutnya dengan mudah. Jika Anda meng-upgrade ke versi Pro, Anda juga dapat mengkonversi dashboard Anda ke tampilan Gantt Chart juga.<br>
+![](http://yourmarketingcoachonline.com/wp-content/uploads/2016/05/Gantt-Chart.jpg)
+**3.** Setelah anda membuat card, anda akan dapat mengundang tim anda, klien, atau kolega untuk berkolaborasi. <br>
+**4.** Anda dapat membuat dasboard terbatas untuk mengelola berbagai aspek kehidupan pribadi dan bisnis anda. Jika anda adalah tipe orang "*list person*", maka anda bisa dengan leluasa menuliskan task yang belom atau sudah tuntas. Jika sudah tuntas, anda bisa memberi penanda (highlight yang menyimpulkan bahwa task telah tuntas). Jadi, anda membuat dashboard untuk setiap daftar anda sendiri, setiap klien, bisnis anda sendiri, percakapan anda dengan pelatih bisnis anda, bahkan pengingat pesta yang akan datang yang perlu dipersiapkan. Dashboard memungkinkan anda untuk tetap fokus pada proyek anda bekerja sehingga anda tidak perlu membongkar-bongkar daftar. <br>
+**5.** Kanbanchi sepenuhnya terintegrasi dengan Google Calendar dan Google Drive! Itu berarti ketika anda membuat jadwal yang terdapat pengingat, maka secara otomatis akan menambahkan ke Google Calendar anda. 
+![](http://yourmarketingcoachonline.com/wp-content/uploads/2016/05/Google.jpg)
+>Ketika anda perlu melampirkan gambar, formulir, atau dokumen, anda dapat melakukannya hanya dalam 2 klik! Dan semua ini dilakukan secara REAL TIME!
+
+
+## Pricing
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Kanbanchi adalah perangkat lunak gratis dengan fitur add-on berbayar. Harga tergantung pada paket fitur tambahan dan kustomisasinya. `Versi Pro Kanbanchi berharga $ 49 per tahun`, dan Kanbanchi akan memberikan pengembalian dana penuh jika Anda tidak puas dengan produk atau dukungan yang diberikan. Anda akan menerima diskon jika Kanbanchi Pro dibeli oleh lebih dari satu pengguna. 
+> Perusahaan Kanbanchi sendiri sudah menetapkan bahwa dari awal Kanbanchi adalah aplikasi gratis dan akan selalu tetap demikian. Fitur untuk fungsionalitas inti (yaitu dashboard, card, pengguna, dan banyak fitur penting) benar-benar gratis selamanya.
+
+
