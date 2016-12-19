@@ -1,4 +1,7 @@
-				**EASY TO USE BITRIX24 **
+Nama  : Putri Puspitasari
+Nim   : 145150401111033
+Kelas : DPSI-P
+							**EASY TO USE BITRIX24 **
 
 
 Bitrix24 merupakan aplikasi manajemen tim yang cukup kompleks.
