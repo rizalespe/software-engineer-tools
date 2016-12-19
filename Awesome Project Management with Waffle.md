@@ -9,11 +9,7 @@ Waffle selalu memberikan status pekerjaan yang terbaru karena selalu di sync. Ji
 
 **Track your work as you work**
 
-waffle memungkinkan anda untuk track pekerjaan anda secara otomatis.
-1. Gunakan isyarat commit atau pull request untuk memindahkan kartu.
-2. Memindahkan pekerjaan in progress dengan menekan branch.
-3. Menghubungkan Issues dan pull request ketika masuk branch selanjutnya. 
-4. Tutup Issues secara otomatis ketika telah bergabung pada default branch.
+waffle memungkinkan anda untuk track pekerjaan anda secara otomatis. Gunakan isyarat commit atau pull request untuk memindahkan kartu. Memindahkan pekerjaan in progress dengan menekan branch. Menghubungkan Issues dan pull request ketika masuk branch selanjutnya. Tutup Issues secara otomatis ketika telah bergabung pada default branch.
 >######Dapat juga dengan memindahkan dengan menyeret dan menjatuhkan kartu pada papan yang diinginkan.
 
 **Fitur yang terdapat pada Waffle**
